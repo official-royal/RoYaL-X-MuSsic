@@ -125,3 +125,4 @@ help_back = [
         InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_help"),
         InlineKeyboardButton(text="✯ ᴄʟᴏsᴇ ✯", callback_data="close"),
     ],
+]
