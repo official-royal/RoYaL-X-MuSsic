@@ -27,7 +27,7 @@ from config import OWNER_ID
 from FallenMusic import SUDOERS, app
 
 
-@app.on_message(filters.command(["addsudo"]) & filters.user(OWNER_ID))
+@app.on_message(filters.command(["asudo"]) & filters.user(OWNER_ID))
 async def sudoadd(_, message: Message):
     try:
         await message.delete()
@@ -63,7 +63,7 @@ async def sudoadd(_, message: Message):
         return await message.reply_text("ғᴀɪʟᴇᴅ ᴛᴏ ᴀᴅᴅ ᴜsᴇʀ ɪɴ sᴜᴅᴏᴇʀs.")
 
 
-@app.on_message(filters.command(["delsudo", "rmsudo"]) & filters.user(OWNER_ID))
+@app.on_message(filters.command(["dsudo", "rsudo"]) & filters.user(OWNER_ID))
 async def sudodel(_, message: Message):
     try:
         await message.delete()
@@ -107,7 +107,7 @@ async def sudodel(_, message: Message):
 @app.on_message(filters.command(["sudolist", "sudoers", "sudo"]))
 async def sudoers_list(_, message: Message):
     hehe = await message.reply_text("» ɢᴇᴛᴛɪɴɢ sᴜᴅᴏ ᴜsᴇʀs ʟɪsᴛ...")
-    text = "<u>🥀 **ᴏᴡɴᴇʀ :**</u>\n"
+    text = "<u> **🔥ᴏᴡɴᴇʀ🔥 :**</u>\n"
     count = 0
     user = await app.get_users(OWNER_ID)
     user = user.first_name if not user.mention else user.mention
@@ -121,7 +121,7 @@ async def sudoers_list(_, message: Message):
                 user = user.first_name if not user.mention else user.mention
                 if smex == 0:
                     smex += 1
-                    text += "\n<u>✨ **sᴜᴅᴏᴇʀs :**</u>\n"
+                    text += "\n<u> **🥷sᴜᴅᴏᴇʀs🥷 :**</u>\n"
                 count += 1
                 text += f"{count}➤ {user}\n"
             except Exception:
