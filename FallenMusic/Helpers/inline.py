@@ -34,7 +34,7 @@ buttons = InlineKeyboardMarkup(
     [
         [
         InlineKeyboardButton(
-            text="✯ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ✯",
+            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -45,8 +45,8 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
         ],
         [
-      InlineKeyboardButton(text="🌷𝐉𝐨𝐢𝐧 𝐏𝐥𝐬🍒", url=f"https://t.me/VIP_CREATORS"),
-      InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=f"https://t.me/TG_FRIENDSS")
+      InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/CHATTING_GRUP001"),
+      InlineKeyboardButton(text="𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦", url=f"https://t.me/DHIMAN_FEELINGS")
     ],
   ]
 )
@@ -61,12 +61,12 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="🩸ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs🩸", callback_data="fallen_help")],
     [
-      InlineKeyboardButton(text="🌷𝐉𝐨𝐢𝐧 𝐏𝐥𝐬🍒", url=f"https://t.me/VIP_CREATORS"),
-      InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=f"https://t.me/TG_FRIENDSS")
+      InlineKeyboardButton(text="𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦", url=f"https://t.me/DHIMAN_FEELINGS"),
+      InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/CHATTING_GRUP001")
     ],
     [
         InlineKeyboardButton(
-            text="🌱sᴏᴜʀᴄᴇ🌱", url="https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"
+            text="🌱sᴏᴜʀᴄᴇ🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
         ),
         InlineKeyboardButton(text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", user_id=config.OWNER_ID),
     ],
@@ -76,17 +76,17 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="✯ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ✯",
+            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [
-      InlineKeyboardButton(text="🌷𝐉𝐨𝐢𝐧 𝐏𝐥𝐬🍒", url=f"https://t.me/VIP_CREATORS"),
-      InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=f"https://t.me/TG_FRIENDSS")
+      InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/CHATTING_GRUP001"),
+      InlineKeyboardButton(text="𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦", url=f"https://t.me/DHIMAN_FEELINGS")
     ],
     [
         InlineKeyboardButton(
-            text="🌱sᴏᴜʀᴄᴇ🌱", url="https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"
+            text="🌱sᴏᴜʀᴄᴇ🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
         ),
         InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
     ],
@@ -96,7 +96,7 @@ gp_buttons = [
 helpmenu = [
     [
         InlineKeyboardButton(
-            text="✯ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ✯",
+            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -120,7 +120,7 @@ helpmenu = [
 help_back = [
     [
         InlineKeyboardButton(
-            text="✯ 𝐀𝐝𝐝 𝐌𝐞 𝐌𝐨𝐢 𝐋𝐮𝐯 ✯",
+            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
