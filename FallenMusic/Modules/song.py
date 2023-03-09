@@ -74,7 +74,7 @@ async def song(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🧚ʏᴏᴜᴛᴜʙᴇ🧚",
+                            text="🧚𝗬𝗢𝗨𝗧𝗨𝗕𝗘🧚",
                             url=link,
                         )
                     ]
@@ -91,14 +91,14 @@ async def song(_, message: Message):
             )
             if message.chat.type != ChatType.PRIVATE:
                 await message.reply_text(
-                    "ᴘʟᴇᴀsᴇ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘᴍ, sᴇɴᴛ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ sᴏɴɢ ᴛʜᴇʀᴇ."
+                    "𝗣𝗟𝗘𝗔𝗦𝗘 𝗖𝗛𝗘𝗖𝗞 𝗬𝗢𝗨𝗥 𝗣𝗠, 𝗦𝗘𝗡𝗧 𝗧𝗛𝗘 𝗥𝗘𝗤𝗨𝗘𝗦𝗧𝗘𝗗 𝗦𝗢𝗡𝗚 𝗧𝗛𝗘𝗥𝗘."
                 )
         except:
             start_butt = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="ᴄʟɪᴄᴋ ʜᴇʀᴇ",
+                            text="𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘",
                             url=f"https://t.me/{BOT_USERNAME}?start",
                         )
                     ]
