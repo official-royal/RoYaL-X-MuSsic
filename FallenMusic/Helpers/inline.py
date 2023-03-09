@@ -43,8 +43,12 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="II", callback_data="pause_cb"),
             InlineKeyboardButton(text="‣‣I", callback_data="skip_cb"),
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
-        ]
-    ]
+        ],
+        [
+      InlineKeyboardButton(text="🌷𝐉𝐨𝐢𝐧 𝐏𝐥𝐬🍒", url=f"https://t.me/VIP_CREATORS"),
+      InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=f"https://t.me/TG_FRIENDSS")
+    ],
+  ]
 )
 
 
@@ -57,8 +61,8 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="🩸ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs🩸", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="❄ᴄʜᴀɴɴᴇʟ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨sᴜᴩᴩᴏʀᴛ✨", url=config.SUPPORT_CHAT),
+      InlineKeyboardButton(text="🌷𝐉𝐨𝐢𝐧 𝐏𝐥𝐬🍒", url=f"https://t.me/VIP_CREATORS"),
+      InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=f"https://t.me/TG_FRIENDSS")
     ],
     [
         InlineKeyboardButton(
@@ -77,8 +81,8 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="❄ᴄʜᴀɴɴᴇʟ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨sᴜᴩᴩᴏʀᴛ✨", url=config.SUPPORT_CHAT),
+      InlineKeyboardButton(text="🌷𝐉𝐨𝐢𝐧 𝐏𝐥𝐬🍒", url=f"https://t.me/VIP_CREATORS"),
+      InlineKeyboardButton(text="🍒𝐂𝐨𝐦𝐞 𝐁𝐚𝐛𝐲😘", url=f"https://t.me/TG_FRIENDSS")
     ],
     [
         InlineKeyboardButton(
@@ -98,7 +102,7 @@ helpmenu = [
     ],
     [
         InlineKeyboardButton(
-            text="🌜ᴇᴠᴇʀʏᴏɴᴇ🌛",
+            text="❣️ᴇᴠᴇʀʏᴏɴᴇ❣️",
             callback_data="fallen_cb help",
         )
     ],
