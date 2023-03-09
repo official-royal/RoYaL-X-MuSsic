@@ -59,8 +59,8 @@ async def ping_fallen(_, message: Message):
                 [
                     InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
-                        "🌱sᴏᴜʀᴄᴇ🌱",
-                        url="https://github.com/THE-VIP-BOY-OP/VIP-MUSIC",
+                        "😈 𝗢𝗪𝗡𝗘𝗥 😈",
+                        url="https://t.me/i_dxlvir",
                     ),
                 ],
             ]
