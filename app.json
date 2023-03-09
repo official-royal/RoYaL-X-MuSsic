@@ -1,7 +1,7 @@
 {
-    "name": "TG ダ MUSIC",
+    "name": "DHIMAN ダ MUSIC",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg",
+    "logo": "https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/TG_FRIENDSS",
+        "value": "https://t.me/CHATTING_GRUP001",
         "required": false
       }
     },
