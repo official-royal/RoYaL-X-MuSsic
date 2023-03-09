@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 𝗩𝗜𝗣 𝗠𝗨𝗦𝗜𝗖 」──
+    ──「 𝗗𝗛𝗜𝗠𝗔𝗡 𝗠𝗨𝗦𝗜𝗖 」──
 
 
 
@@ -9,10 +9,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg">
+  <img src="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg">
 </p>
 
-_**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [🎧𝐓𝐆 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓🎧](https://t.me/tg_music_robot)**_
+_**𝘿𝙃𝙄𝙈𝘼𝙉 𝘽𝙊𝙏 ➣ [🎧𝘿𝙃𝙄𝙈𝘼𝙉 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏🎧](https://t.me/Dhimanofficial_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -61,7 +61,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b09cdfe8fb553fdd976eb.jpg">
+  <img src="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg">
 </p>
 
 </details>
@@ -72,10 +72,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TG_FRIENDSS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/CHATTING_GRUP001"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/VIP_CREATORS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/DHIMAN_FEELINGS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
