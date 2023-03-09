@@ -66,7 +66,7 @@ Press `Ctrl+b` and then `d`
 
 </details>
 
-━━━━━━━━━━━━━━━━━━━━
+
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
