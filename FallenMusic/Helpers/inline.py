@@ -34,7 +34,7 @@ buttons = InlineKeyboardMarkup(
     [
         [
         InlineKeyboardButton(
-            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
+            text="➕ 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -45,8 +45,8 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="▢", callback_data="end_cb"),
         ],
         [
-      InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/CHATTING_GRUP001"),
-      InlineKeyboardButton(text="𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦", url=f"https://t.me/DHIMAN_FEELINGS")
+      InlineKeyboardButton(text="🖤 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🖤", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
+      InlineKeyboardButton(text="🥀 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🥵", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
     ],
   ]
 )
@@ -59,16 +59,16 @@ pm_buttons = [
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="🩸ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs🩸", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="🩸𝙷𝙴𝙻𝙿 𝙰𝙽𝙳 𝙲𝙼𝙳𝚂🩸", callback_data="fallen_help")],
     [
-      InlineKeyboardButton(text="𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦", url=f"https://t.me/DHIMAN_FEELINGS"),
-      InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/CHATTING_GRUP001")
+      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
+      InlineKeyboardButton(text="🍷 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
     ],
     [
         InlineKeyboardButton(
-            text="🌱sᴏᴜʀᴄᴇ🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
+            text="🌱 𝚁𝙴𝙿𝙾 🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
         ),
-        InlineKeyboardButton(text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🥀𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁🥀", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -76,19 +76,19 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
+            text="⚡ 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🌏",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [
-      InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/CHATTING_GRUP001"),
-      InlineKeyboardButton(text="𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦", url=f"https://t.me/DHIMAN_FEELINGS")
+      InlineKeyboardButton(text="🐣 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🐣", url=f"https://t.me/ll_ROYAL_CHATTING_ll"),
+      InlineKeyboardButton(text="🍷 𝚁𝙾𝚈𝙰𝙻 𝙽𝙴𝚃𝚆𝙾𝚁𝙺 🌸", url=f"https://t.me/OFFICIAL_ROYAL_NETWORK")
     ],
     [
         InlineKeyboardButton(
-            text="🌱sᴏᴜʀᴄᴇ🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
+            text="🌱 𝚁𝙴𝙿𝙾 🌱", url="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🥀 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 🥀", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -96,7 +96,7 @@ gp_buttons = [
 helpmenu = [
     [
         InlineKeyboardButton(
-            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
+            text="🚩 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🎀",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
@@ -120,11 +120,11 @@ helpmenu = [
 help_back = [
     [
         InlineKeyboardButton(
-            text="✯ 𝗔𝗗𝗗 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ✯",
+            text="🔥 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 🥂",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="✨GROUP✨", url=config.SUPPORT_CHAT)],
+    [InlineKeyboardButton(text="🖤 𝙶𝚁𝙾𝚄𝙿 🖤", url=config.SUPPORT_CHAT)],
     [
         InlineKeyboardButton(text="✯ ʙᴀᴄᴋ ✯", callback_data="fallen_help"),
         InlineKeyboardButton(text="✯ ᴄʟᴏsᴇ ✯", callback_data="close"),
