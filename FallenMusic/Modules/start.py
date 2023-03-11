@@ -66,9 +66,9 @@ async def fallen_st(_, message: Message):
                 key = InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="🥀𝗬𝗢𝗨𝗧𝗨𝗕𝗘🥀", url=link),
+                            InlineKeyboardButton(text="🥀ʏᴏᴜᴛᴜʙᴇ🥀", url=link),
                             InlineKeyboardButton(
-                                text="🍁𝗦𝗨𝗣𝗣𝗢𝗥𝗧🍁", url=config.SUPPORT_CHAT
+                                text="🍁sᴜᴘᴘᴏʀᴛ🍁", url=config.SUPPORT_CHAT
                             ),
                         ],
                     ]
