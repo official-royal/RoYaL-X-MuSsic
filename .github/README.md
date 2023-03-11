@@ -9,10 +9,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg">
+  <img src="https://telegra.ph/file/e4abc4ca5e4c71b5a29d9.jpg">
 </p>
 
-_**OFFICIAL ROYAL ➣ [🎧 ROYAL MUSIC BOT 🎧](https://t.me/Royal_MusicBot)**_
+_**OFFICIAL ROYAL ➣ [🎧 ROYAL MUSIC BOT 🎧](https://t.me/Royal_MusixBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -27,14 +27,14 @@ _**OFFICIAL ROYAL ➣ [🎧 ROYAL MUSIC BOT 🎧](https://t.me/Royal_MusicBot)**
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ds98762/Royal-x-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/ds98762/Royal-x-Music/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -61,7 +61,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg">
+  <img src="https://telegra.ph/file/e4abc4ca5e4c71b5a29d9.jpg">
 </p>
 
 </details>
@@ -72,10 +72,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/CHATTING_GRUP001"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ll_ROYAL_CHATTING_ll"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/DHIMAN_FEELINGS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/OFFICIAL_ROYAL_NETWORK"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
